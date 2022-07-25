@@ -1,5 +1,7 @@
 # Bioinf_2019
-Farahbod &amp; Pavlidis 2019 Bioinformatics 
+
+Code for Farahbod &amp; Pavlidis (2019) Differential coexpression in human tissues and the confounding effect of mean expression levels. Bioinformatics
+Jan 1;35(1):55-61 DOI: 10.1093/bioinformatics/bty538
 
 
 These three functions are used for measuring the TS value for each of the links:
